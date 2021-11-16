@@ -21,7 +21,7 @@
 <link>http://ignorame</link>
 <thumbnail>https://pbs.twimg.com/profile_images/2581647529/qvmz7k3lmy6e7ba65kmk_400x400.png</thumbnail>
 <fanart>https://boainformacao.com.br/wp-content/uploads/2019/04/tv.png</fanart>
-<externallink>https://raw.githubusercontent.com/RAMALHOTV/SERVIDOR-TESTE-/main/README.md</externallink>
+<externallink> http://main.webhostingtoto.xyz:2095/get.php?username=NEW_LIVE9871587392&password=1112039603&type=m3u</externallink>
 </item>
 
 <item>
@@ -29,7 +29,7 @@
 <link>http://ignorame</link>
 <thumbnail>https://pbs.twimg.com/profile_images/2581647529/qvmz7k3lmy6e7ba65kmk_400x400.png</thumbnail>
 <fanart>https://boainformacao.com.br/wp-content/uploads/2019/04/tv.png</fanart>
-<externallink>https://shortest.link/ramalhotv</externallink>
+<externallink>http://main.webhostingtoto.xyz:2095/get.php?username=NEW_LIVE6782139127&password=6681488519&type=m3u</externallink>
 </item>
 
 
@@ -38,7 +38,7 @@
 <link>http://ignorame</link>
 <thumbnail>https://pbs.twimg.com/profile_images/2581647529/qvmz7k3lmy6e7ba65kmk_400x400.png</thumbnail>
 <fanart>https://boainformacao.com.br/wp-content/uploads/2019/04/tv.png</fanart>
-<externallink>https://pastebin.com/raw/Egv9YmFE</externallink>
+<externallink>http://main.webhostingtoto.xyz:2095/get.php?username=NEW_LIVE931990211&password=8132725616&type=m3u</externallink>
 </item>
 
 <item>
@@ -46,7 +46,7 @@
 <link>http://ignorame</link>
 <thumbnail>https://pbs.twimg.com/profile_images/2581647529/qvmz7k3lmy6e7ba65kmk_400x400.png</thumbnail>
 <fanart>https://boainformacao.com.br/wp-content/uploads/2019/04/tv.png</fanart>
-<externallink>https://pastebin.com/raw/NWksHHPN</externallink>
+<externallink> http://main.webhostingtoto.xyz:2095/get.php?username=NEW_LIVE6782139127&password=6681488519&type=m3u</externallink>
 </item>
 
 
